@@ -1,8 +1,8 @@
 {
 	"transactions": [
-		{ "id": 1, "description": "Retirement Savings", "value": 2000, "date":"" }
+		{ "id": 1, "description": "Retirement Savings", "value": 2000, "date":"", },
 	],
 	"profile": {
 		"name": "Ricardo Monagas"
-	}
+	},
 }
