@@ -4,14 +4,59 @@
 			"id": 1, 
 			"currency": "USD",
 			"accountId": 1,
-			"folderId": 2,
-			"description": "Retirement Savings", 
+			"folderId": 1,
+			"description": "Retirement Savings / November 2017", 
 			"value": 2000, 
-			"currency": "USD",
 			"date":"03/11/2017"
 		}
 	],
-	"profile": {
-		"name": "Ricardo Monagas"
-	}
+	"users": [
+		{
+			"id": 1,
+			"name": "Ricardo Monagas",
+			"email": "info@ricardomonagas.com",
+		}
+		
+	],
+	"accounts": [
+		{
+			"id": 1,
+			"name": "RB / Business Account",
+			"userId": 1, 
+			"bankId":1,
+			"currencyId":1,
+			"folders": [
+				{
+					"id": 1,
+					"name": "Retirement Funds"
+				},
+				{
+					"id": 2,
+					"name": "Family Funds"
+				}
+			]
+		}
+
+	],
+	"banks": [
+		{
+			"id": 1,
+			"name": "Raiffesen Bank",
+			"description":"Czech Republic Bank"	
+		}
+	],
+	"currencies": [
+ 		{
+ 			"id": 1,
+ 			"name": "US Dollars",
+ 			"shortName": "USD",
+ 			"symbol": "$"
+ 		},
+ 		{
+ 			"id": 2,
+ 			"name": "Czech Crowns",
+ 			"shortName": "CZK",
+ 			"symbol":"Kč"
+ 		}
+	]
 }
