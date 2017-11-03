@@ -7,13 +7,13 @@
 				"name": "Raiffesen Bank / Biz Account",
 				"folder": {
 					"id": 1,
-					"name": "Retirement Funds",
-				},
+					"name": "Retirement Funds"
+				}
 			},
 			"description": "Retirement Savings", 
 			"value": 2000, 
 			"currency": "USD",
-			"date":"03/11/2017",
+			"date":"03/11/2017"
 		}
 	],
 	"profile": {
