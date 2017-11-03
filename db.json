@@ -2,14 +2,9 @@
 	"transactions": [
 		{ 
 			"id": 1, 
-			"account": {
-				"id": 1,
-				"name": "Raiffesen Bank / Biz Account",
-				"folder": {
-					"id": 1,
-					"name": "Retirement Funds"
-				}
-			},
+			"currency": "USD",
+			"accountId": 1,
+			"folderId": 2,
 			"description": "Retirement Savings", 
 			"value": 2000, 
 			"currency": "USD",
