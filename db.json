@@ -1,6 +1,20 @@
 {
 	"transactions": [
-		{ "id": 1, "description": "Retirement Savings", "value": 2000, "date":"test"}
+		{ 
+			"id": 1, 
+			"account": {
+				"id": 1,
+				"name": "Raiffesen Bank / Biz Account",
+				"folder": {
+					"id": 1,
+					"name": "Retirement Funds",
+				},
+			},
+			"description": "Retirement Savings", 
+			"value": 2000, 
+			"currency": "USD",
+			"date":"03/11/2017",
+		}
 	],
 	"profile": {
 		"name": "Ricardo Monagas"
