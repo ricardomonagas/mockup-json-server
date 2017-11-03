@@ -44,20 +44,6 @@
 			"description":"Czech Republic Bank"	
 		}
 	],
-	"currencies": [
- 		{
- 			"id": 1,
- 			"name": "US Dollars",
- 			"shortName": "USD",
- 			"symbol": "$"
- 		},
- 		{
- 			"id": 2,
- 			"name": "Czech Crowns",
- 			"shortName": "CZK",
- 			"symbol":"Kč"
- 		}
-	],
 	"profile": {
 		"name": "Ricardo"
 	}
