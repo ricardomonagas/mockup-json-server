@@ -37,13 +37,6 @@
 		}
 
 	],
-	"banks": [
-		{
-			"id": 1,
-			"name": "Raiffesen Bank",
-			"description":"Czech Republic Bank"	
-		}
-	],
 	"profile": {
 		"name": "Ricardo"
 	}
